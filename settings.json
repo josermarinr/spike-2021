@@ -1,0 +1,133 @@
+{
+	"explorer.openEditors.visible": 0,
+	"editor.snippetSuggestions": "bottom",
+	"emmet.showAbbreviationSuggestions": false,
+	"editor.multiCursorModifier": "ctrlCmd",
+	"editor.formatOnPaste": false,
+	"editor.fontLigatures": true,
+	"terminal.integrated.fontSize": 14,
+	"editor.fontSize": 14,
+	"editor.autoIndent": "full",
+	"editor.formatOnSave": true,
+	"files.autoSave": "onWindowChange",
+	"editor.fontFamily": "Anonymous Pro",
+	"markdown.preview.fontSize": 16,
+	"editor.tabSize": 2,
+	"editor.detectIndentation": true,
+	"editor.minimap.enabled": false,
+	"files.exclude": {
+		".stylelintrc": true,
+		".stylelintrc.json": true
+	},
+	"workbench.startupEditor": "newUntitledFile",
+	"editor.suggestSelection": "first",
+	"[javascript]": {
+		"editor.defaultFormatter": "HookyQR.beautify"
+	},
+	"[json]": {
+		"editor.defaultFormatter": "HookyQR.beautify"
+	},
+	"[html]": {
+		"editor.tabSize": 4,
+		"editor.defaultFormatter": "HookyQR.beautify"
+	},
+	"[css]": {
+		"editor.defaultFormatter": "HookyQR.beautify"
+	},
+	"liveshare.featureSet": "insiders",
+	"[vue]": {
+		"editor.defaultFormatter": "octref.vetur"
+	},
+	"diffEditor.ignoreTrimWhitespace": false,
+	"[typescriptreact]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"liveshare.anonymousGuestApproval": "accept",
+	"[typescript]": {
+		"editor.tabSize": 2,
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"workbench.colorCustomizations": {},
+	"[scss]": {
+		"editor.tabSize": 4,
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[javascriptreact]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[jsonc]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"editor.tokenColorCustomizations": {
+		"textMateRules": [
+			{
+				"scope": ["keyword.operator.logical"],
+				"settings": {
+					"fontStyle": ""
+				}
+			},
+			{
+				"scope": ["keyword.operator.logical"],
+				"settings": {
+					"fontStyle": ""
+				}
+			},
+			{
+				"name": "envKeys",
+				"scope": "string.quoted.double.env,source.env,constant.numeric.env",
+				"settings": {
+					"foreground": "#182d3b00"
+				}
+			},
+			{
+				"scope": ["keyword.operator.logical"],
+				"settings": {
+					"fontStyle": ""
+				}
+			},
+			{
+				"scope": ["keyword.operator.logical"],
+				"settings": {
+					"fontStyle": ""
+				}
+			},
+			{
+				"name": "envKeys",
+				"scope": "string.quoted.double.env,source.env,constant.numeric.env",
+				"settings": {
+					"foreground": "#19354900"
+				}
+			}
+		]
+	},
+	"search.exclude": {
+		"**/*.code-search": false,
+		"**/bower_components": false,
+		"**/node_modules": false
+	},
+	"compile-hero.disable-compile-files-on-did-save-code": true,
+	"cSpell.words": ["Peirodic", "Volumetrysimulations"],
+	"workbench.editorAssociations": {
+		"*.ipynb": "jupyter.notebook.ipynb"
+	},
+	"webhint.enableTelemetry": "disabled",
+	"explorer.confirmDelete": false,
+	"workbench.editor.untitled.hint": "hidden",
+	"mssql.connections": [
+		{
+			"server": "{{put-server-name-here}}",
+			"database": "{{put-database-name-here}}",
+			"user": "{{put-username-here}}",
+			"password": "{{put-password-here}}"
+		}
+	],
+	"explorer.confirmDragAndDrop": false,
+	"GitLive.Issue tracker integration": "Disabled",
+	"prettier.useTabs": true,
+	"prettier.tabWidth": 2,
+	"liveServer.settings.donotShowInfoMsg": true,
+	"workbench.colorTheme": "1Dark RainCoat",
+	"javascript.updateImportsOnFileMove.enabled": "never",
+	"redhat.telemetry.enabled": true,
+	"window.zoomLevel": 1
+}
